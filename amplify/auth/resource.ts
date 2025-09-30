@@ -1,5 +1,4 @@
 // amplify/auth/resource.ts
-// amplify/auth/resource.ts
 import { defineAuth } from '@aws-amplify/backend';
 import { postConfirmation } from './post-confirmation/resource';
 
